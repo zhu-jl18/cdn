@@ -8,4 +8,4 @@ else
 	echo " git commit -m $1 "
 fi
 git push
-
+exec /bin/bash
